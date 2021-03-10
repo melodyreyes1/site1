@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+img {position: absolute;}
+.whiteversioncover {
+  position: absolute;
+  left: 678px;
+  top: 608px;
+  width: 699px;
+  height: 1065px;
+  z-index: 1;
+}
+.whitetitle {
+  background-image: url("whitetitle.png");
+  position: absolute;
+  left: 924px;
+  top: 200px;
+  width: 500px;
+  height: 551px;
+  z-index: 1;
+}
